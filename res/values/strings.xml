@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Eat it!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Eat it!</string>
+    <string name="review">review</string>
+    <string name="fav">fav!</string>
+    <string name="under">This is under construction!</string>
+    <string name="Description">lorem ipsum dolor sit amet bla bla bla bla\nlorem ipsum dolor sit amet bla bla bla bla\nlorem ipsum dolor sit amet bla bla bla bla\nlorem ipsum dolor sit amet bla bla bla bla\nlorem ipsum dolor sit amet bla bla bla bla\nlorem ipsum dolor sit amet bla bla bla bla</string>
+
+</resources>
